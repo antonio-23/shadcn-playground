@@ -55,7 +55,14 @@ export default async function Home() {
                 <p>{recipe.description}</p>
               </CardContent>
               <CardFooter className='flex justify-between'>
-                <Button>View recipe</Button>
+                <Button
+                  style={{
+                    clipPath:
+                      "polygon(18px 0, 100% 0, 100% 100%, 0 100%, 0 18px);",
+                  }}
+                >
+                  View recipe
+                </Button>
                 {recipe.vegan && <Badge variant='secondary'>Vegan! 🌱</Badge>}
               </CardFooter>
             </Card>

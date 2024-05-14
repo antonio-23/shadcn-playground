@@ -1,0 +1,76 @@
+{
+  "recipes": [
+    {
+      "id": "1",
+      "title": "Carbonara wegetariańska",
+      "image": "carbonara_wegetarianska.jpg",
+      "time": 20,
+      "description": "Wegetariańska wariacja na klasyczne włoskie danie z makaronu z jajkami, serem i boczkiem wegetariańskim.",
+      "vegan": false
+    },
+    {
+      "id": "2",
+      "title": "Wok wegetariański",
+      "image": "wok_wegetarianski.jpg",
+      "time": 25,
+      "description": "Szybki i zdrowy wegetariański wok z świeżymi warzywami i tofu.",
+      "vegan": true
+    },
+    {
+      "id": "3",
+      "title": "Alfredo wegetariańskie",
+      "image": "alfredo_wegetarianskie.jpg",
+      "time": 30,
+      "description": "Kremowy makaron z grillowanym kurczakiem wegetariańskim i bogatym sosem Alfredo.",
+      "vegan": false
+    },
+    {
+      "id": "4",
+      "title": "Risotto z grzybami",
+      "image": "risotto_z_grzybami.jpg",
+      "time": 40,
+      "description": "Komfortowe włoskie danie z ryżu wegetariańskiego z podsmażonymi grzybami i serem parmezan.",
+      "vegan": false
+    },
+    {
+      "id": "5",
+      "title": "Zupa z soczewicy wegetariańskiej",
+      "image": "zupa_z_soczewicy_wegetarianska.jpg",
+      "time": 35,
+      "description": "Sycąca i odżywcza wegetariańska zupa z soczewicą i mieszanką przypraw.",
+      "vegan": true
+    },
+    {
+      "id": "6",
+      "title": "Grillowane grzyby",
+      "image": "grillowane_grzyby.jpg",
+      "time": 15,
+      "description": "Smakowite grillowane grzyby Portobello z marynatą z cytryny i ziół.",
+      "vegan": true
+    },
+    {
+      "id": "7",
+      "title": "Sałatka z pieczonymi warzywami",
+      "image": "salatka_z_pieczonymi_warzywami.jpg",
+      "time": 30,
+      "description": "Kolorowa wegetariańska sałatka z pieczonymi warzywami i vinegrettem balsamicznym.",
+      "vegan": true
+    },
+    {
+      "id": "8",
+      "title": "Tacos wegetariańskie",
+      "image": "tacos_wegetarianskie.jpg",
+      "time": 25,
+      "description": "Pyszne wegetariańskie tacos z przyprawionym mięsem na bazie roślin i świeżymi dodatkami.",
+      "vegan": true
+    },
+    {
+      "id": "9",
+      "title": "Ciasteczka czekoladowe",
+      "image": "ciasteczka_czekoladowe.jpg",
+      "time": 12,
+      "description": "Domowe wegetariańskie ciasteczka czekoladowe, które są miękkie i kleiste w środku.",
+      "vegan": false
+    }
+  ]
+}
